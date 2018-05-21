@@ -46,3 +46,9 @@ Para criar uma nova branch remota siga os passos descritos abaixo:
 2. Altere os arquivos
 3. Crie a nova branch remota com o comando abaixo
     - `git push origin **[nome-da-branch]**`
+
+
+
+
+
+
