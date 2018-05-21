@@ -37,6 +37,12 @@ Para criar uma nova branch local siga os passos descritos abaixo:
 
 `git checkout -b [nome-da-nova-branch]`
 
+## Realizar troca entre branches
+
+Para criar uma nova branch local siga os passos descritos abaixo:
+
+`git checkout [nome-da-nova-branch]`
+
 ## Criar nova branch remota à partir de uma local
 
 Para criar uma nova branch remota siga os passos descritos abaixo:
